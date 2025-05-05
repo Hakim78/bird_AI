@@ -1,0 +1,24 @@
+# les fichiers audio volumineux
+*.ogg
+*.wav
+*.mp3
+
+# les dossiers de données volumineux
+/bird_audio/
+/Spectrograms/
+
+# Environnement Python
+__pycache__/
+*.py[cod]
+*$py.class
+.conda/
+venv/
+.env
+
+# les fichiers de configuration personnels
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*.log
+*.tmp

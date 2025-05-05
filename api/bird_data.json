@@ -1,0 +1,31 @@
+{
+    "robind1": {
+      "latin_name": "Erithacus rubecula",
+      "zone": "Europe, Asie de l'Ouest",
+      "info": "Le rouge-gorge est un petit oiseau territorial à gorge rouge vif, souvent vu dans les jardins.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erithacus_rubecula_with_cocked_head.jpg/640px-Erithacus_rubecula_with_cocked_head.jpg",
+      "sound": "https://xeno-canto.org/sounds/uploaded/NMYDXYEBHW/XC735464-EUR.RUB.CM1.MP3"
+    },
+    "blusti1": {
+      "latin_name": "Cyanistes caeruleus",
+      "zone": "Europe et Moyen-Orient",
+      "info": "La mésange bleue est facilement reconnaissable avec sa calotte bleue et son ventre jaune.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cyanistes_caeruleus_01.jpg/640px-Cyanistes_caeruleus_01.jpg",
+      "sound": "https://xeno-canto.org/sounds/uploaded/TSKLRVFFAE/XC745474-Mesange_bleue_TG.mp3"
+    },
+    "cuckoo1": {
+      "latin_name": "Cuculus canorus",
+      "zone": "Europe, Asie et Afrique du Nord",
+      "info": "Le coucou est célèbre pour pondre ses œufs dans les nids d'autres espèces.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Common_Cuckoo_2.jpg/640px-Common_Cuckoo_2.jpg",
+      "sound": "https://xeno-canto.org/sounds/uploaded/RGAYROUZLB/XC706106-coucou_juv.mp3"
+    },
+    "fallback": {
+      "latin_name": "Espèce inconnue",
+      "zone": "Zone géographique non déterminée",
+      "info": "Nous n'avons pas d'informations détaillées pour cet oiseau. Essayez un autre chant ou contactez un expert ornithologue.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bird_silhouette.svg/640px-Bird_silhouette.svg.png",
+      "sound": "https://xeno-canto.org/static/player/XC-Intro.mp3"
+    }
+  }
+  

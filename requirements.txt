@@ -1,0 +1,11 @@
+pandas
+numpy
+tqdm
+matplotlib
+librosa
+soundfile
+tensorflow
+scikit-learn
+notebook
+ipython
+streamlit
